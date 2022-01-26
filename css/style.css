@@ -1,7 +1,7 @@
 body {
     background: #000000;
     color:#FFFFFF;
-    font-family: 'Verdana' 'Times New Roman';
+    font-family: Verdana, "Times New Roman";
     margin: 25px 25px 0px;
 }
 
@@ -71,7 +71,7 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500 ;
     text-align: left;
     margin-right: 50px;
     border-width: 0px 10px 3px 0px;
@@ -80,6 +80,7 @@ div {
 span {
     text-decoration: underline;
     text-transform: uppercase;
+    display: inline-block;
     text-shadow: none;
 }
 
